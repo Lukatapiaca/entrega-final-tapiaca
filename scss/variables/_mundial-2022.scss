@@ -45,4 +45,19 @@
   .final-vdo { grid-area: final-vdo; }
   
   .final-parrafo { grid-area: final-parrafo; }
-  
+main{
+    .container{
+        .fase-grupo-parrafo{
+            margin: auto;
+            padding: 5px;
+        }
+        .fase-eliminacion-parrafo{
+            margin: auto;
+            padding: 5px;
+        }
+        .final-parrafo{
+            margin: auto;
+            padding: 5px;
+        }
+    }
+}
