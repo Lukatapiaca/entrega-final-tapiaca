@@ -1,0 +1,12 @@
+@import './variables/formulario';
+@import './variables/galeria';
+@import './variables/index';
+@import './variables/mundial-2022';
+@import './variables/titulos';
+
+body {
+	margin: 0;
+	font-family: monospace;
+	min-height: 70vh;
+	background-image: linear-gradient(to right, #47c6f883, #ffffff,#47c6f883 ) ;
+}
